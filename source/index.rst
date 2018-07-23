@@ -1,20 +1,14 @@
-.. BlackJake Blog documentation master file, created by
-   sphinx-quickstart on Mon Jul 23 08:51:27 2018.
+.. MING's BLOG documentation master file, created by
+   sphinx-quickstart on Sat Jun 23 16:57:48 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to BlackJake Blog's documentation!
-==========================================
+Welcome to MING's BLOG's documentation!
+=======================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   how_to_be_a_rich_man
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
